@@ -8,6 +8,6 @@ This project is a web app in C that allows a user to access a data file via a we
 
 ## Technique
 
-• Developing an application that communicates using HTTP
-• Using socket programming in C to handle requests and responses
-• Using threads to perform numerous operations simultaneously
+• Developing an application that communicates using HTTP \
+• Using socket programming in C to handle requests and responses \
+• Using threads to perform numerous operations simultaneously \
