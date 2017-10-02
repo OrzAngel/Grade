@@ -2,4 +2,12 @@
 
 Time to evaluate profs and their works
 
-The HTTP web server is built in C and uses threads to perform numerous operations simultaneously and handle concurrent HTTP requests on sample course evaluation data.
+## Description
+
+This project is a web app in C that allows a user to access a data file via a web browser from across the Internet, and then perform basic operations on the data, such as searching and filtering.
+
+## Technique
+
+• Developing an application that communicates using HTTP
+• Using socket programming in C to handle requests and responses
+• Using threads to perform numerous operations simultaneously
